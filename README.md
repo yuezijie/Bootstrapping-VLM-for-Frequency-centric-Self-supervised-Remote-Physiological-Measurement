@@ -12,7 +12,7 @@ Facial video-based remote physiological measurement is a promising research area
 - NVIDIA GPU + CUDA
 - Python packages: numpy,opencv-python
 # Pretrained model
-Please download the [pretrained model](https://drive.google.com/file/d/1AZ5YpD7sjp_mLlBgK0tgYTC21NCF9pPe/view?usp=sharing), and put it under model/
+Please download the [pretrained model](https://drive.google.com/file/d/1CtAJeG-KHWbLbPd2Cl0OXxzRJdg3o4Wu/view?usp=sharing), and put it under model/
 
 # Main experiment
 
